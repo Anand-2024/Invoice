@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Name": "P1",
+    "Description": "Description1",
+    "Price": 10.0,
+    "Quantity": 100,
+    "Category": "Category1"
+  },
+  {
+    "Name": "P2",
+    "Description": "Description2",
+    "Price": 20.0,
+    "Quantity": 200,
+    "Category": "Category2"
+  },
+  {
+    "Name": "P3",
+    "Description": "Description3",
+    "Price": 20.0,
+    "Quantity": 200,
+    "Category": "Category3"
+  }
+]

@@ -1,0 +1,8 @@
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\x64\Release\InvoiceApp.exe.config
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\x64\Release\InvoiceApp.exe
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\x64\Release\InvoiceApp.pdb
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\x64\Release\InvoiceApp.csproj.CopyComplete
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\x64\Release\InvoiceApp.exe
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\x64\Release\InvoiceApp.pdb

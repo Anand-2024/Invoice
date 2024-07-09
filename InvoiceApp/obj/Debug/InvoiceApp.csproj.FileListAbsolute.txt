@@ -1,0 +1,9 @@
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe.config
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.exe
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\Debug\InvoiceApp.pdb
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.exe
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.pdb
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anand\source\repos\InvoiceApp\InvoiceApp\obj\Debug\InvoiceApp.csproj.CopyComplete
